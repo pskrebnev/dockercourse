@@ -8,3 +8,5 @@ CMD [ "-D", "FOREGROUND" ]
 
 ENTRYPOINT [ "/usr/sbin/httpd" ]
 
+EXPOSE 80
+
