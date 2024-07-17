@@ -1,0 +1,9 @@
+# FROM nginx:latest
+
+# CMD echo "Hello Docker!"
+
+FROM nginx:latest
+CMD echo "Hello from NGINX"
+
+
+
